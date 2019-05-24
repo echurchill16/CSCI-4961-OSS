@@ -1,1 +1,3 @@
 # Lab 01 Report - Introduction to Open Source Software
+
+Free Culture Ch.3 - My first thoughts after reading that chapter are that it really paints the picture of the RIAA being an evil organization. Jesse was just doing what he liked to do while bettering the school's online environment with no intent of illegal actions. It is unfortunate that it happened, but it is a good learning experience for everyone regarding these issues, which is evident in Jesse becoming an activist relating to these issues. Overtime, as the internet has become more and more of a giant in society, it is a lot harder to prevent things like the spreading of illegal music downloads. 
